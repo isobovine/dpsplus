@@ -1,0 +1,10 @@
+To use this code, you need to have installed the packages YALMIP and SeDuMi (or
+another SDP solver of your choice). You can get these from:
+
+https://yalmip.github.io/download/
+https://github.com/sqlp/sedumi
+
+You can run setup.m (with the paths appropriately modified) to load the packages.
+
+To reproduce the figure from section III.E (Numerical Results), run
+the script main.m

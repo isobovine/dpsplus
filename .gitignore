@@ -1,0 +1,13 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.bbl
+*.blg
+*.fls
+*.toc
+*.fdb_latexmk
+*.nav
+*.snm
+matlab/output/*
