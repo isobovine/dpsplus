@@ -1,13 +1,12 @@
-This repository contains the paper and code for the paper
-*An improved semidefinite programming hierarchy for testing entanglement*
+### An improved semidefinite programming hierarchy for testing entanglement
 by Aram W. Harrow, Anand Natarajan, Xiaodi Wu
 
-It is available on the arXiv as
-[arXiv:1506.08834](https://arxiv.org/abs/1506.08834) and has been
-published as
+Available on the arXiv as
+[arXiv:1506.08834](https://arxiv.org/abs/1506.08834) and published as
 [Commun. Math. Phys. Vol. 352, No. 3, pp 881-904 (2017)](https://dx.doi.org/10.1007/s00220-017-2859-0)
 
 _Abstract_
+
 We present a stronger version of the Doherty–Parrilo–Spedalieri (DPS)
 hierarchy of approximations for the set of separable states. Unlike
 DPS, our hierarchy converges exactly at a finite number of rounds for
